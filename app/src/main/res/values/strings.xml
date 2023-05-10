@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="hint">Enter Abbreviation</string>
+    <string name="search">Search</string>
+</resources>
